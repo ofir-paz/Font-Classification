@@ -1,6 +1,6 @@
 # Computer Vision Project - Font Classification
 
-Font classification project: Designed a deep learning model using residual blocks &amp; regularization techniques for accurate font style recognition. Achieved robust performance through iterative optimization &amp; evaluation.
+Font classification project: Designed a deep learning model using residual blocks &amp; regularization techniques for accurate font style recognition. Achieved robust performance through iterative optimization &amp; evaluation. \
 This project was developed as part of the course 22928 - Introduction to Computer Vision. The goal of the project is to classify fonts into 7 different classes.
 
 ## Project Overview
@@ -29,13 +29,13 @@ The project is organized as follows:
 
 ## Getting Started
 
-Download the train and test data h5 datasets in the `data\` directory.
-The datasets are located in kaggle: `https://www.kaggle.com/datasets/ofirpaz/fonts-dataset/`.
-Run the project: `python src/run.py`
+- Download the train and test data h5 datasets in the `data\` directory.
+- The datasets are located in kaggle: `https://www.kaggle.com/datasets/ofirpaz/fonts-dataset/`.
+- Run the project: `python src/run.py`
 
 ## Results
 
-The font classification model achieved an accuracy of 98.3% on the test dataset. This demonstrates the effectiveness of the chosen machine learning algorithms and feature extraction techniques.
+The font classification model achieved an accuracy of 98.3% on the test dataset. This demonstrates the effectiveness of the chosen machine learning algorithms and feature extraction techniques. \
 Keep in mind that any model that you create and train your self, won't reach the performance of
 the given model, since the given model `do7_tune4` was heavily fine tuned.
 
@@ -45,7 +45,6 @@ the given model, since the given model `do7_tune4` was heavily fine tuned.
 
 ## License
 
-TODO: ADD LICENSE
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
