@@ -1,5 +1,6 @@
 # Computer Vision Project - Font Classification
 
+Font classification project: Designed a deep learning model using residual blocks &amp; regularization techniques for accurate font style recognition. Achieved robust performance through iterative optimization &amp; evaluation.
 This project was developed as part of the course 22928 - Introduction to Computer Vision. The goal of the project is to classify fonts into 7 different classes.
 
 ## Project Overview
